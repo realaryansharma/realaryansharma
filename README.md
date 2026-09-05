@@ -1,44 +1,61 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;&center=true&size=30"> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p
-</a>
-</em></p>
+<div align="center">
 
-[![Linkedin: aryan](https://img.shields.io/badge/-realaryansharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realaryansharma/)](https://www.linkedin.com/in/realaryansharma/)
-![GitHub followers](https://img.shields.io/github/followers/realaryansharma?label=Follow&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=realaryansharma&label=Profile%20views&color=0e75b6&style=flat)
+# Hi, I'm Aryan 👋
 
+**Software Engineer building fintech infrastructure — currently open to new opportunities.**
 
+📍 Pune, Maharashtra, India &nbsp;·&nbsp; 🟢 Open to work
 
-<p>
- I'm <b>Aryan Sharma</b>, Web Developer/ Coder/ AI Enthusiast 🥷,  Autodidact 👨‍💻 from 🇮🇳
-  <br>
-  🎓 Persuing my masters from University of Petroleum and Energy Studies, Dehradun
-  <br>
-  💻 I love to learn new technologies and frameworks.
-  <br>
- 
-</p>
+[![LinkedIn](https://img.shields.io/badge/-realaryansharma-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/realaryansharma/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat-square&logo=firefox&logoColor=white)](https://realaryansharma.github.io/)
+[![Email](https://img.shields.io/badge/-Email%20me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heyaryanshandilya@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=realaryansharma&label=Profile%20views&color=1a1a1a&style=flat-square)
+
+</div>
 
 <br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### What I do
 
-```javascript
-const aryan = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Java"],
-    askMeAbout: ["web dev", "tech", "AI"],
-    technologies: {
-        web: ["HTML" ,"CSS" , "LESS", "Javascript"],
-        databases: ["MySql", "MariaDB"],
-        misc: ["tensorflow", "react"]
-    },
-    currentStatus: "Learning",
-    funFact: "There are two ways to write error-free programs; only the third one work"
-};
+I build production payment and credit infrastructure at a fintech — API integrations that have to pass strict regulatory certification on the first try, not the fifth. Outside of work, I write about systems thinking and teach the concepts I wish someone had simplified for me earlier.
+
+- 🔧 Led certification of **NPCI UPI Payment APIs** and **TransUnion CIBIL Credit APIs** — 100% test-case clearance on first submission, now live in production with partner banks
+- ⚙️ Built a transaction reconciliation platform handling **40K+ monthly settlements**, cutting manual reconciliation by 20+ hours/week
+- 🤖 Automated ~60% of 120+ recurring regulatory compliance reports, reducing turnaround from 11+ days to ~4
+- 🎓 Teach what I learn — breaking down systems thinking, engineering fundamentals, and mental models on video and in writing
+
+<br>
+
+### Currently
+
+```text
+role       : SDE-I, Fintech (Payments & Credit Infrastructure)
+based in   : Pune, Maharashtra, India
+status     : Open to full-time opportunities
+stack      : Python · Java · JavaScript · MySQL/MariaDB · REST APIs
+interests  : systems design, developer teaching, applied AI
 ```
 
+<br>
 
+### Selected work
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+| Project | What it is |
+|---|---|
+| [**Woof Weather**](https://github.com/realaryansharma/DogEmotionPrediction) | Multimodal dog-emotion classifier — TensorFlow + LSTM, 89% visual / 67% audio accuracy |
+| [**Lead Tracker**](https://github.com/realaryansharma/leadTracker) | Published Chrome extension for one-click lead capture from any webpage |
+| [**Portfolio**](https://realaryansharma.github.io/) | Full write-up of my work, principles, and essays |
+
+<br>
+
+### Find me elsewhere
+
+I write short essays on systems thinking and mental models, and post teaching videos breaking down engineering concepts — both linked on my [portfolio](https://realaryansharma.github.io/).
+
+<br>
+
+<div align="center">
+
+*Open to backend, fintech, and applied-AI roles — feel free to [reach out](mailto:heyaryanshandilya@gmail.com).*
+
+</div>
