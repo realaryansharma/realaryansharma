@@ -50,7 +50,7 @@ interests  : systems design, developer teaching, applied AI
 
 ### Find me elsewhere
 
-I write short essays on systems thinking and mental models, and post teaching videos breaking down engineering concepts — both linked on my [portfolio](https://realaryansharma.github.io/).
+I write short essays on systems thinking and mental models, and post teaching videos breaking down engineering concepts — both linked on my [portfolio](https://realaryansharma.github.io/portfolio/).
 
 <br>
 
