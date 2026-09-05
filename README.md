@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aryan 👋
+# Hi, I'm Aryan Sharma 👋
 
 **Software Engineer building fintech infrastructure — currently open to new opportunities.**
 
