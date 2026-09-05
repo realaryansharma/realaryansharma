@@ -44,7 +44,7 @@ interests  : systems design, developer teaching, applied AI
 |---|---|
 | [**Woof Weather**](https://github.com/realaryansharma/DogEmotionPrediction) | Multimodal dog-emotion classifier — TensorFlow + LSTM, 89% visual / 67% audio accuracy |
 | [**Lead Tracker**](https://github.com/realaryansharma/leadTracker) | Published Chrome extension for one-click lead capture from any webpage |
-| [**Portfolio**](https://realaryansharma.github.io/) | Full write-up of my work, principles, and essays |
+| [**Portfolio**](https://realaryansharma.github.io/portfolio/) | Full write-up of my work, principles, and essays |
 
 <br>
 
