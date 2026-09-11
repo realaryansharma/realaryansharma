@@ -7,7 +7,7 @@
 📍 Pune, Maharashtra, India &nbsp;·&nbsp; 🟢 Open to work
 
 [![LinkedIn](https://img.shields.io/badge/-realaryansharma-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/realaryansharma/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat-square&logo=firefox&logoColor=white)](https://realaryansharma.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat-square&logo=firefox&logoColor=white)]([https://realaryansharma.github.io/](https://realaryansharma.github.io/portfolio/))
 [![Email](https://img.shields.io/badge/-Email%20me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heyaryanshandilya@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=realaryansharma&label=Profile%20views&color=1a1a1a&style=flat-square)
 
