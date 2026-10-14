@@ -29,7 +29,7 @@ I build production payment and credit infrastructure at a fintech — API integr
 ### Currently
 
 ```text
-role       : SDE-I, Fintech (Payments & Credit Infrastructure)
+role       : SDE-I, Fintech (UPI, NPCI & Payments Infrastructure)
 based in   : Pune, Maharashtra, India
 status     : Open to full-time opportunities
 stack      : Python · Java · JavaScript · MySQL/MariaDB · REST APIs
